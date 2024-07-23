@@ -1,6 +1,6 @@
 {
   "name": "azhan-ksa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI and library to get Azhan times for cities in Saudi Arabia",
   "main": "src/index.js",
   "bin": {
@@ -9,8 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Your Name",
-  "license": "ISC",
+  "author": "Mohammad Alawneh",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "commander": "^7.0.0"
