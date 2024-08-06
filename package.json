@@ -14,5 +14,21 @@
   "dependencies": {
     "axios": "^0.21.1",
     "commander": "^7.0.0"
-  }
+  },
+  "keywords": [
+    "islamic",
+    "prayer",
+    "azhan",
+    "adhan",
+    "ksa",
+    "fajr",
+    "Duhur",
+    "Asr",
+    "Maghrib",
+    "Isha",
+    "Aladhan",
+    "Azan",
+    "Pray",
+    "Muslim"
+  ]
 }
